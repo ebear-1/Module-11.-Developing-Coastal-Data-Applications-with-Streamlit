@@ -1,0 +1,4 @@
+conda create -n coastal_app_env python=3.11
+conda activate coastal_app_env
+conda install pip
+python -m pip install -r requirements.txt

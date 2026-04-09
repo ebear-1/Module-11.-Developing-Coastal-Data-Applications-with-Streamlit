@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+xarray
+wavespectra
+matplotlib
+pydeck
+netCDF4
+pydap
+requests
+charset-normalizer
+geemap
+folium
+streamlit-folium
+cmocean
