@@ -53,7 +53,7 @@ def main():
              "name":["St. Augustine","West Tampa","Cape Canaveral"],
              "latitude":[29.999, 28.500, 28.508],
              "longitude":[-81.079, -84.505, -80.185],
-             "region":["North Atlantic","Caribbean","Pacific"]}
+             "region":["St. Augustine","West Tampa","Cape Canaveral"]}
     
     buoy_df = pd.DataFrame(buoys)
 
